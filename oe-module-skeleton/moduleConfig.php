@@ -9,4 +9,5 @@
  */
 
 //only use this if you want to use the laminis iframe
-$module_config = 1;
+//$module_config = 1;
+require_once "setup.php";
